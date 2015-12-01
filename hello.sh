@@ -1,3 +1,4 @@
+echo $1
 echo "first name"
 read a
 echo "hai $a"
